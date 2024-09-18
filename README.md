@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anshita-png
+- 👋 Hi, I'm Anshita Kumari
 - 👀 I’m interested in AI 
 - 🌱 I’m currently learning DSA in C++
 - 📫 How to reach me : anshitakr@gmail.com
